@@ -10,9 +10,7 @@
     height: 808px;
     
 }
-.banner{
-    
-}
+
 .banner-title{
     font-weight: 700;
     font-size: 65px;
@@ -64,9 +62,7 @@ main{
     font-size: 40px;
     margin-bottom: 25px;
 }
-.previous-year-description{
 
-}
 /* plans styles */
 
 .plan-container{
@@ -139,9 +135,7 @@ footer{
     font-size: 25px;
     margin-bottom: 30px;
 }
-form{
-    /* width: 100%; */
-}
+
 input[type="email"]{
     border-radius: 5px;
     margin-bottom: 16px;
